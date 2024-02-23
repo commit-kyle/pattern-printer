@@ -1,5 +1,4 @@
 public interface PatternBuilder {
-    StringBuilder pattern = new StringBuilder();
     /**
      * Constructs a pattern according to the specified rows
      * @param rows The amount of rows our constructed pattern will have
